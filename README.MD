@@ -1,3 +1,7 @@
+]<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ridhima%20Gadalay&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20%7C%20Full%20Stack%20%7C%20Cybersecurity&descAlignY=62&descSize=20" alt="header banner" width="100%"/>
+</p>
+
 <h1 align="center">Hi there, I'm Ridhima Gadalay 👋✨</h1>
 <h3 align="center">🎓 CSE Student @ CBIT Hyderabad | 🤖 AI/ML Enthusiast | 💻 Full Stack Developer | 🔐 Cybersecurity</h3>
 
@@ -28,6 +32,10 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </p>
 
 ---
