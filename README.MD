@@ -1,4 +1,4 @@
-]<p align="center">
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ridhima%20Gadalay&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20%7C%20Full%20Stack%20%7C%20Cybersecurity&descAlignY=62&descSize=20" alt="header banner" width="100%"/>
 </p>
 
