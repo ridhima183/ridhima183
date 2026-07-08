@@ -163,51 +163,82 @@ Solving problems consistently to sharpen algorithmic thinking and prep for SWE i
 ### 💼 Featured Projects
 
 #### 🐛 Pest Vision
-Full-stack Next.js 14 (App Router) website for a Hyderabad-based pest control business — Tailwind CSS, Radix UI, React Hook Form + Zod validation, Framer Motion animations.
+A full-stack marketing + booking website built for a real Hyderabad-based pest control business, focused on conversion and polish rather than just a portfolio demo.
+- Built with **Next.js 14 App Router** for fast, SEO-friendly page loads
+- **Radix UI** primitives for accessible components + **Tailwind CSS** for a custom design system
+- Form validation with **React Hook Form + Zod**, so bad inputs never hit the backend
+- **Framer Motion** micro-interactions and scroll animations for a premium feel
 
-`Next.js` `React` `Tailwind` `Framer Motion`
+`Next.js` `React` `Tailwind` `Radix UI` `Framer Motion` `Zod`
 
 <br>
 
 #### 🤖 Role Radar AI — Resume Classifier
-End-to-end NLP pipeline (Linear SVM, Random Forest, Naive Bayes) with a custom TF-IDF vectorizer (25K vocab), 81.3% accuracy. FastAPI + React + 3-container Docker setup, SQLAlchemy ORM with SQLite → PostgreSQL migration.
+An end-to-end NLP system that automatically classifies resumes into job categories, built as a group project to explore how ML models become real products.
+- Custom **TF-IDF vectorizer** with a 25K-word vocabulary trained from scratch
+- Compared **Linear SVM, Random Forest, and Naive Bayes**, landing on 81.3% classification accuracy
+- **FastAPI** backend serving predictions to a **React** frontend
+- Fully containerized with a **3-container Docker Compose** setup (API, DB, frontend)
+- **SQLAlchemy ORM** with a migration path from SQLite → PostgreSQL for production readiness
 
-`Python` `NLTK` `TF-IDF` `Docker` `FastAPI` `React`
+`Python` `NLTK` `TF-IDF` `Docker` `FastAPI` `React` `PostgreSQL`
 
 <br>
 
 #### 🩺 VitalIQ — Clinical Decision Support
-Full-stack ML web app for clinical risk prediction using Random Forest models (UCI Heart Disease & Breast Cancer Wisconsin datasets), SHAP explainability, JWT auth with role-based access, and Recharts dashboards.
+A clinical decision-support prototype that goes beyond "just predict" to focus on trust and explainability — critical in a healthcare context.
+- **Random Forest models** trained on the UCI Heart Disease and Breast Cancer Wisconsin datasets
+- **SHAP explainability** so every prediction comes with a "why," not just a number
+- **JWT authentication** with role-based access control (clinician vs. admin views)
+- Interactive **Recharts** dashboards for visualizing patient risk factors
+- Full-stack architecture: **Next.js** frontend + **FastAPI** backend + **scikit-learn** models
 
-`Next.js` `FastAPI` `Scikit-learn` `SHAP` `JWT`
+`Next.js` `FastAPI` `Scikit-learn` `SHAP` `JWT` `Recharts`
 
 <br>
 
 #### 💰 SplitNest — Roommate Expense Splitter
-Full-stack expense-sharing app with JWT auth, groups, members, expense tracking, and equal-split balance calculation.
+A practical full-stack app for splitting shared expenses among roommates, built to solve a real everyday problem.
+- **JWT-based authentication** for secure multi-user access
+- Group creation with multiple members per group
+- Expense logging with automatic **equal-split balance calculation**
+- **FastAPI + SQLAlchemy** backend with a **React (Vite)** frontend for a fast dev loop
 
 `React` `Vite` `FastAPI` `SQLAlchemy` `SQLite`
 
 <br>
 
 #### 💳 Credit Card Fraud Detection
-Isolation Forest + supervised ensemble classifier on 30K+ transactions with extreme class skew. Stratified K-Fold CV + GridSearchCV tuning (95% accuracy), SHAP-based interpretability across 24 features.
+A fraud detection pipeline built during my AI/ML internship, tackling one of the hardest problems in ML: extreme class imbalance.
+- **30,000+ transactions** with fraud cases making up a tiny fraction of the data
+- Combined **Isolation Forest** (anomaly detection) with a **supervised ensemble** (Random Forest, XGBoost)
+- Used **SMOTE** to rebalance classes and prevent the model from just predicting "not fraud" every time
+- **Stratified K-Fold CV + GridSearchCV** hyperparameter tuning pushed accuracy to 95%
+- **SHAP-based interpretability** across 24 features to explain *why* a transaction was flagged
 
-`Python` `XGBoost` `Random Forest` `SMOTE` `SHAP`
+`Python` `XGBoost` `Random Forest` `SMOTE` `SHAP` `Scikit-learn`
 
 <br>
 
 #### 🏥 Disease Diagnosis using ML
-Multi-class diagnostic engine using Decision Trees & SVM on 132-feature sparse matrices, with an NLP string-normalization pipeline for symptom-query parsing.
+A multi-class diagnostic engine that predicts likely diseases from user-described symptoms — my first end-to-end ML project.
+- Trained **Decision Tree and SVM classifiers** on a 132-feature sparse symptom matrix
+- Built a custom **NLP string-normalization pipeline** (regex-based) to parse free-text symptom queries into structured inputs
+- Taught me that a model performing well in a notebook isn't automatically ready for messy, real-world input
 
 `Python` `Scikit-learn` `NLP` `Regex`
 
 <br>
 
-#### ⚡ IoT-based Human Energy Harvesting
-Industrial IoT voltage monitoring system: 6 piezoelectric sensors + kinetic generator, ESP32-based real-time monitoring, I2C LCD display, Wi-Fi-enabled Blynk cloud dashboard.
+#### ⚡ IoT-based Human Energy Harvesting System
+A hardware + software IoT project exploring how human movement can be converted into usable, trackable energy.
+- **6 piezoelectric sensors** paired with a kinetic generator to harvest motion-based energy
+- **ESP32** microcontroller for real-time sensor monitoring and data transmission
+- **INA219** current/voltage sensor for precise power measurement
+- Live **I2C LCD display** for on-device readings
+- **Wi-Fi-enabled Blynk** cloud dashboard for remote monitoring
 
-`ESP32` `IoT` `Blynk` `INA219`
+`ESP32` `IoT` `Blynk` `INA219` `Embedded Systems`
 
 <br>
 
