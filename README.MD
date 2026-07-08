@@ -60,6 +60,71 @@ Python • Machine Learning • React & Next.js • FastAPI • SQL • Cybersec
 
 ---
 
+### 🧭 My AI/ML Journey
+
+> It started with one question: *how can a computer produce something that feels so remarkably human?* That's the question that pulled me into AI/ML — and every project since has just been me chasing the next question it raised.
+
+```mermaid
+timeline
+    title From Curiosity to Curriculum
+    2023 : First Spark 🌱 : Used ChatGPT to learn & debug : Got curious about *how* it works, not just *what* it does
+    2024 : Building Foundations 📚 : Probability · Stats · Linear Algebra · DSA : Google AI Essentials & Prompting Essentials : Salesforce Agentforce & Oracle AI Foundations
+    2025 (Sem 3) : First ML Project 🩺 : Healthcare Chatbot (Decision Tree & SVM) : Learned — accuracy isn't the same as being ready for the real world
+    2025 (Internship) : Trust over Accuracy 💳 : Credit Card Fraud Detection on imbalanced data : SMOTE · Ensemble Learning · Explainable AI : Learned — which model can be trusted when being wrong is costly
+    2025-26 : ML Becomes a Product 🤖 : Role Radar — AI Resume Classifier : FastAPI + React + PostgreSQL : Learned — impactful AI needs to be scalable & usable, not just smart
+    2026 : Going Deeper 🚀 : Deep Learning · Transformers · NLP · GenAI : Aiming for Amazon ML Summer School
+```
+
+<details>
+<summary>🌱 <b>2023 — The Spark</b></summary>
+<br>
+
+Like most first-year engineers, I started using ChatGPT to understand concepts and debug code faster. But I kept asking a different question than everyone else: *how does a machine produce something this human?* That question became the seed for everything that followed.
+
+</details>
+
+<details>
+<summary>📚 <b>2024 — Building Real Foundations</b></summary>
+<br>
+
+Using AI and *understanding* AI turned out to be very different things. I went back to fundamentals — probability, statistics, linear algebra, calculus, DSA — while stacking certifications: Google AI Essentials & Prompting Essentials, Salesforce Agentforce Specialist, and Oracle AI Foundations Associate.
+
+</details>
+
+<details>
+<summary>🩺 <b>2025 — Healthcare Chatbot: Lesson #1, Prediction ≠ Readiness</b></summary>
+<br>
+
+My first real ML project — a disease-diagnosis chatbot using Decision Trees & SVM. It worked well in the notebook, but struggled on rare cases and couldn't explain its own decisions. That taught me the gap between a model that performs and a model that's *trustworthy*.
+
+</details>
+
+<details>
+<summary>💳 <b>2025 — Credit Card Fraud Detection: Lesson #2, Trust over Accuracy</b></summary>
+<br>
+
+During my internship, I built a fraud detector on real, heavily imbalanced financial data. This is where I met explainable AI, anomaly detection, and ensemble learning — and where the question in my head shifted from *"which model performs best?"* to *"which model can I trust when being wrong is expensive?"*
+
+</details>
+
+<details>
+<summary>🤖 <b>2025–26 — Role Radar: Lesson #3, ML is a Product</b></summary>
+<br>
+
+Role Radar, an AI resume classification platform, taught me that impactful AI isn't just about smart algorithms — it's about shipping something scalable, usable, and human-centered. Integrating NLP with FastAPI, React, and PostgreSQL turned a model into a real product.
+
+</details>
+
+<details>
+<summary>🚀 <b>2026 — What's Next</b></summary>
+<br>
+
+Now deepening my understanding of deep learning, transformer architectures, NLP, and generative AI — with production-scale ML systems as the north star. Every solved problem has just been the start of the next question, and I'm not stopping now.
+
+</details>
+
+---
+
 ### 🛠️ Tech Stack
 
 <details open>
