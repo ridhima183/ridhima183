@@ -75,6 +75,32 @@ Python • Machine Learning • React & Next.js • FastAPI • SQL • Cybersec
 > It started with one question: *how can a computer produce something that feels so remarkably human?* That's the question that pulled me into AI/ML — and every project since has just been me chasing the next question it raised.
 
 ```mermaid
+%%{init: {
+  "theme": "base",
+  "themeVariables": {
+    "background": "#FDF6EC",
+    "primaryColor": "#722F37",
+    "primaryTextColor": "#FDF6EC",
+    "primaryBorderColor": "#3B0F14",
+    "secondaryColor": "#A64B2A",
+    "tertiaryColor": "#C08552",
+    "lineColor": "#6B1F2A",
+    "textColor": "#3B0F14",
+    "mainBkg": "#722F37",
+    "cScale0": "#722F37",
+    "cScale1": "#A64B2A",
+    "cScale2": "#8A3B3B",
+    "cScale3": "#6B1F2A",
+    "cScale4": "#C08552",
+    "cScale5": "#3B0F14",
+    "cScaleLabel0": "#FDF6EC",
+    "cScaleLabel1": "#FDF6EC",
+    "cScaleLabel2": "#FDF6EC",
+    "cScaleLabel3": "#FDF6EC",
+    "cScaleLabel4": "#3B0F14",
+    "cScaleLabel5": "#FDF6EC"
+  }
+}}%%
 timeline
     title From Curiosity to Curriculum
     2023 : First Spark 🌱 : Used ChatGPT to learn & debug : Got curious about *how* it works, not just *what* it does
