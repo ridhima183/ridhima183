@@ -1,37 +1,33 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:081C15,50:1B4332,100:2D6A4F&height=210&text=Ridhima%20Gadalay&fontSize=50&fontColor=FAF3E0&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20%7C%20Full%20Stack%20%7C%20Cybersecurity&descAlignY=63&descSize=17" alt="header banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2E2A2B,50:6B4E52,100:B4788A&height=210&text=Ridhima%20Gadalay&fontSize=50&fontColor=F7EDE7&animation=fadeIn&fontAlignY=40&desc=AI%2FML%20%7C%20Full%20Stack%20%7C%20Cybersecurity&descAlignY=63&descSize=17" alt="header banner" width="100%"/>
 </p>
 
 <h3 align="center">🎓 CSE Student @ CBIT Hyderabad &nbsp;·&nbsp; 🤖 AI/ML &nbsp;·&nbsp; 💻 Full Stack &nbsp;·&nbsp; 🔐 Cybersecurity</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ridhima-gadalay-90b681298"><img src="https://img.shields.io/badge/LinkedIn-1B4332?style=for-the-badge&logo=linkedin&logoColor=FAF3E0" /></a>
-  <a href="https://leetcode.com/u/ridhima_1618/"><img src="https://img.shields.io/badge/LeetCode-D4A017?style=for-the-badge&logo=leetcode&logoColor=081C15" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/ridhimag183"><img src="https://img.shields.io/badge/GeeksforGeeks-2D6A4F?style=for-the-badge&logo=geeksforgeeks&logoColor=FAF3E0" /></a>
-  <a href="mailto:ridhima.gadalay@gmail.com"><img src="https://img.shields.io/badge/Gmail-081C15?style=for-the-badge&logo=gmail&logoColor=FAF3E0" /></a>
+  <a href="https://linkedin.com/in/ridhima-gadalay-90b681298"><img src="https://img.shields.io/badge/LinkedIn-2E2A2B?style=for-the-badge&logo=linkedin&logoColor=F7EDE7" /></a>
+  <a href="https://leetcode.com/u/ridhima_1618/"><img src="https://img.shields.io/badge/LeetCode-B4788A?style=for-the-badge&logo=leetcode&logoColor=F7EDE7" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/ridhimag183"><img src="https://img.shields.io/badge/GeeksforGeeks-6B4E52?style=for-the-badge&logo=geeksforgeeks&logoColor=F7EDE7" /></a>
+  <a href="mailto:ridhima.gadalay@gmail.com"><img src="https://img.shields.io/badge/Gmail-2E2A2B?style=for-the-badge&logo=gmail&logoColor=F7EDE7" /></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&pause=1000&color=D4A017&center=true&vCenter=true&width=560&lines=AI+Engineer+in+the+Making;Full+Stack+%2B+ML+Developer;Building+AI+that+Solves+Real+Problems;Turning+%E2%98%95+into+Code+Since+2023" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=600&pause=1000&color=B4788A&center=true&vCenter=true&width=560&lines=AI+Engineer+in+the+Making;Full+Stack+%2B+ML+Developer;Building+AI+that+Solves+Real+Problems;Turning+%E2%98%95+into+Code+Since+2023" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ridhima183&label=Profile%20Views&color=1B4332&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CGPA-9.51-D4A017?style=for-the-badge&logoColor=081C15" />
-  <img src="https://img.shields.io/badge/College-CBIT%20Hyderabad-2D6A4F?style=for-the-badge" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="80%"/>
+  <img src="https://komarev.com/ghpvc/?username=ridhima183&label=Profile%20Views&color=2E2A2B&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CGPA-9.51-B4788A?style=for-the-badge&logoColor=F7EDE7" />
+  <img src="https://img.shields.io/badge/College-CBIT%20Hyderabad-6B4E52?style=for-the-badge" />
 </p>
 
 <div align="center">
 
-╭──────────────────────────────────────────────╮
+──────────────────────
 
 </div>
 
-## 🌿 About Me
+## 🌸 About Me
 
 ```yaml
 name: Ridhima Gadalay
@@ -54,15 +50,15 @@ goal: "Software Engineer @ a top product company, shipping scalable AI-driven pr
 %%{init: {
   "theme": "base",
   "themeVariables": {
-    "background": "#FAF3E0",
-    "primaryColor": "#1B4332",
-    "primaryTextColor": "#FAF3E0",
-    "primaryBorderColor": "#081C15",
-    "secondaryColor": "#2D6A4F",
-    "tertiaryColor": "#D4A017",
-    "lineColor": "#52796F",
-    "textColor": "#081C15",
-    "mainBkg": "#1B4332"
+    "background": "#F7EDE7",
+    "primaryColor": "#2E2A2B",
+    "primaryTextColor": "#F7EDE7",
+    "primaryBorderColor": "#2E2A2B",
+    "secondaryColor": "#6B4E52",
+    "tertiaryColor": "#B4788A",
+    "lineColor": "#8C6469",
+    "textColor": "#2E2A2B",
+    "mainBkg": "#2E2A2B"
   }
 }}%%
 timeline
@@ -121,50 +117,50 @@ Now deepening my understanding of deep learning, transformer architectures, NLP,
 
 **Languages**
 <br>
-<img src="https://img.shields.io/badge/Python-1B4332?style=flat-square&logo=python&logoColor=FAF3E0" />
-<img src="https://img.shields.io/badge/JavaScript-D4A017?style=flat-square&logo=javascript&logoColor=081C15" />
-<img src="https://img.shields.io/badge/HTML5-2D6A4F?style=flat-square&logo=html5&logoColor=FAF3E0" />
-<img src="https://img.shields.io/badge/CSS3-081C15?style=flat-square&logo=css3&logoColor=FAF3E0" />
-<img src="https://img.shields.io/badge/SQL-52796F?style=flat-square&logo=mysql&logoColor=FAF3E0" />
+<img src="https://img.shields.io/badge/Python-2E2A2B?style=flat-square&logo=python&logoColor=F7EDE7" />
+<img src="https://img.shields.io/badge/JavaScript-B4788A?style=flat-square&logo=javascript&logoColor=F7EDE7" />
+<img src="https://img.shields.io/badge/HTML5-6B4E52?style=flat-square&logo=html5&logoColor=F7EDE7" />
+<img src="https://img.shields.io/badge/CSS3-2E2A2B?style=flat-square&logo=css3&logoColor=F7EDE7" />
+<img src="https://img.shields.io/badge/SQL-8C6469?style=flat-square&logo=mysql&logoColor=F7EDE7" />
 
 **Frontend**
 <br>
-<img src="https://img.shields.io/badge/React-1B4332?style=flat-square&logo=react&logoColor=FAF3E0" />
-<img src="https://img.shields.io/badge/Next.js-081C15?style=flat-square&logo=nextdotjs&logoColor=FAF3E0" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-D4A017?style=flat-square&logo=tailwindcss&logoColor=081C15" />
-<img src="https://img.shields.io/badge/Framer_Motion-2D6A4F?style=flat-square&logo=framer&logoColor=FAF3E0" />
+<img src="https://img.shields.io/badge/React-2E2A2B?style=flat-square&logo=react&logoColor=F7EDE7" />
+<img src="https://img.shields.io/badge/Next.js-2E2A2B?style=flat-square&logo=nextdotjs&logoColor=F7EDE7" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-B4788A?style=flat-square&logo=tailwindcss&logoColor=F7EDE7" />
+<img src="https://img.shields.io/badge/Framer_Motion-6B4E52?style=flat-square&logo=framer&logoColor=F7EDE7" />
 
 **Backend**
 <br>
-<img src="https://img.shields.io/badge/Node.js-1B4332?style=flat-square&logo=nodedotjs&logoColor=FAF3E0" />
-<img src="https://img.shields.io/badge/Express.js-081C15?style=flat-square&logo=express&logoColor=FAF3E0" />
-<img src="https://img.shields.io/badge/FastAPI-2D6A4F?style=flat-square&logo=fastapi&logoColor=FAF3E0" />
+<img src="https://img.shields.io/badge/Node.js-2E2A2B?style=flat-square&logo=nodedotjs&logoColor=F7EDE7" />
+<img src="https://img.shields.io/badge/Express.js-2E2A2B?style=flat-square&logo=express&logoColor=F7EDE7" />
+<img src="https://img.shields.io/badge/FastAPI-6B4E52?style=flat-square&logo=fastapi&logoColor=F7EDE7" />
 
 </td>
 <td valign="top" width="50%">
 
 **Databases**
 <br>
-<img src="https://img.shields.io/badge/MongoDB-1B4332?style=flat-square&logo=mongodb&logoColor=FAF3E0" />
-<img src="https://img.shields.io/badge/PostgreSQL-081C15?style=flat-square&logo=postgresql&logoColor=FAF3E0" />
-<img src="https://img.shields.io/badge/MySQL-D4A017?style=flat-square&logo=mysql&logoColor=081C15" />
-<img src="https://img.shields.io/badge/SQLite-52796F?style=flat-square&logo=sqlite&logoColor=FAF3E0" />
+<img src="https://img.shields.io/badge/MongoDB-2E2A2B?style=flat-square&logo=mongodb&logoColor=F7EDE7" />
+<img src="https://img.shields.io/badge/PostgreSQL-2E2A2B?style=flat-square&logo=postgresql&logoColor=F7EDE7" />
+<img src="https://img.shields.io/badge/MySQL-B4788A?style=flat-square&logo=mysql&logoColor=F7EDE7" />
+<img src="https://img.shields.io/badge/SQLite-8C6469?style=flat-square&logo=sqlite&logoColor=F7EDE7" />
 
 **AI / ML**
 <br>
-<img src="https://img.shields.io/badge/Scikit_Learn-1B4332?style=flat-square&logo=scikitlearn&logoColor=FAF3E0" />
-<img src="https://img.shields.io/badge/Pandas-081C15?style=flat-square&logo=pandas&logoColor=FAF3E0" />
-<img src="https://img.shields.io/badge/NumPy-2D6A4F?style=flat-square&logo=numpy&logoColor=FAF3E0" />
-<img src="https://img.shields.io/badge/TensorFlow-D4A017?style=flat-square&logo=tensorflow&logoColor=081C15" />
-<img src="https://img.shields.io/badge/SHAP-52796F?style=flat-square" />
+<img src="https://img.shields.io/badge/Scikit_Learn-2E2A2B?style=flat-square&logo=scikitlearn&logoColor=F7EDE7" />
+<img src="https://img.shields.io/badge/Pandas-2E2A2B?style=flat-square&logo=pandas&logoColor=F7EDE7" />
+<img src="https://img.shields.io/badge/NumPy-6B4E52?style=flat-square&logo=numpy&logoColor=F7EDE7" />
+<img src="https://img.shields.io/badge/TensorFlow-B4788A?style=flat-square&logo=tensorflow&logoColor=F7EDE7" />
+<img src="https://img.shields.io/badge/SHAP-8C6469?style=flat-square" />
 
 **Tools & Platforms**
 <br>
-<img src="https://img.shields.io/badge/Git-1B4332?style=flat-square&logo=git&logoColor=FAF3E0" />
-<img src="https://img.shields.io/badge/GitHub-081C15?style=flat-square&logo=github&logoColor=FAF3E0" />
-<img src="https://img.shields.io/badge/Docker-2D6A4F?style=flat-square&logo=docker&logoColor=FAF3E0" />
-<img src="https://img.shields.io/badge/Postman-D4A017?style=flat-square&logo=postman&logoColor=081C15" />
-<img src="https://img.shields.io/badge/Linux-52796F?style=flat-square&logo=linux&logoColor=FAF3E0" />
+<img src="https://img.shields.io/badge/Git-2E2A2B?style=flat-square&logo=git&logoColor=F7EDE7" />
+<img src="https://img.shields.io/badge/GitHub-2E2A2B?style=flat-square&logo=github&logoColor=F7EDE7" />
+<img src="https://img.shields.io/badge/Docker-6B4E52?style=flat-square&logo=docker&logoColor=F7EDE7" />
+<img src="https://img.shields.io/badge/Postman-B4788A?style=flat-square&logo=postman&logoColor=F7EDE7" />
+<img src="https://img.shields.io/badge/Linux-8C6469?style=flat-square&logo=linux&logoColor=F7EDE7" />
 
 </td>
 </tr>
@@ -175,20 +171,20 @@ Now deepening my understanding of deep learning, transformer architectures, NLP,
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ridhima183&show_icons=true&hide_border=true&count_private=true&title_color=1B4332&icon_color=D4A017&text_color=081C15&bg_color=FAF3E0&ring_color=2D6A4F" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhima183&layout=compact&hide_border=true&title_color=1B4332&text_color=081C15&bg_color=FAF3E0" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ridhima183&show_icons=true&hide_border=true&count_private=true&title_color=B4788A&icon_color=B4788A&text_color=2E2A2B&bg_color=F7EDE7&ring_color=6B4E52" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhima183&layout=compact&hide_border=true&title_color=B4788A&text_color=2E2A2B&bg_color=F7EDE7" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridhima183&hide_border=true&background=FAF3E0&ring=1B4332&fire=D4A017&currStreakLabel=1B4332&sideLabels=081C15&currStreakNum=081C15&sideNums=081C15&dates=52796F" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ridhima183&hide_border=true&background=F7EDE7&ring=B4788A&fire=B4788A&currStreakLabel=2E2A2B&sideLabels=2E2A2B&currStreakNum=2E2A2B&sideNums=2E2A2B&dates=8C6469" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridhima183&hide_border=true&bg_color=FAF3E0&color=1B4332&line=D4A017&point=081C15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridhima183&hide_border=true&bg_color=F7EDE7&color=2E2A2B&line=B4788A&point=2E2A2B" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ridhima183&theme=gruvbox&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ridhima183&theme=vue&no-frame=true&row=1&column=7" />
 </p>
 
 <br>
@@ -200,8 +196,8 @@ Now deepening my understanding of deep learning, transformer architectures, NLP,
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/ridhima_1618/"><img src="https://img.shields.io/badge/LeetCode-Profile-D4A017?style=for-the-badge&logo=leetcode&logoColor=081C15" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/ridhimag183"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-1B4332?style=for-the-badge&logo=geeksforgeeks&logoColor=FAF3E0" /></a>
+  <a href="https://leetcode.com/u/ridhima_1618/"><img src="https://img.shields.io/badge/LeetCode-Profile-B4788A?style=for-the-badge&logo=leetcode&logoColor=F7EDE7" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/ridhimag183"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2E2A2B?style=for-the-badge&logo=geeksforgeeks&logoColor=F7EDE7" /></a>
 </p>
 
 <br>
@@ -295,7 +291,7 @@ Hardware + software IoT project exploring how human movement converts into usabl
 </table>
 
 <p align="center">
-  <a href="https://github.com/ridhima183?tab=repositories"><img src="https://img.shields.io/badge/View_All_22%2B_Repos-081C15?style=flat-square&logo=github&logoColor=FAF3E0" /></a>
+  <a href="https://github.com/ridhima183?tab=repositories"><img src="https://img.shields.io/badge/View_All_22%2B_Repos-2E2A2B?style=flat-square&logo=github&logoColor=F7EDE7" /></a>
 </p>
 
 <br>
@@ -335,14 +331,14 @@ Deep Learning / Transformers   ████████░░░░░░░░�
 ## 📜 Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/Salesforce-Agentforce_Specialist-1B4332?style=flat-square&logo=salesforce&logoColor=FAF3E0" />
-  <img src="https://img.shields.io/badge/Oracle-AI_Foundations_Associate-D4A017?style=flat-square&logo=oracle&logoColor=081C15" />
-  <img src="https://img.shields.io/badge/Google-AI_Essentials-2D6A4F?style=flat-square&logo=google&logoColor=FAF3E0" />
-  <img src="https://img.shields.io/badge/Google-Prompting_Essentials-081C15?style=flat-square&logo=google&logoColor=FAF3E0" />
-  <img src="https://img.shields.io/badge/Alteryx-Designer_Core-52796F?style=flat-square&logo=alteryx&logoColor=FAF3E0" />
-  <img src="https://img.shields.io/badge/NPTEL-Cybersecurity_%26_IoT-1B4332?style=flat-square" />
-  <img src="https://img.shields.io/badge/Infosys-Python_Automation-D4A017?style=flat-square&logoColor=081C15" />
-  <img src="https://img.shields.io/badge/HackerRank-Python_(Basic)-2D6A4F?style=flat-square&logo=hackerrank&logoColor=FAF3E0" />
+  <img src="https://img.shields.io/badge/Salesforce-Agentforce_Specialist-2E2A2B?style=flat-square&logo=salesforce&logoColor=F7EDE7" />
+  <img src="https://img.shields.io/badge/Oracle-AI_Foundations_Associate-B4788A?style=flat-square&logo=oracle&logoColor=F7EDE7" />
+  <img src="https://img.shields.io/badge/Google-AI_Essentials-6B4E52?style=flat-square&logo=google&logoColor=F7EDE7" />
+  <img src="https://img.shields.io/badge/Google-Prompting_Essentials-2E2A2B?style=flat-square&logo=google&logoColor=F7EDE7" />
+  <img src="https://img.shields.io/badge/Alteryx-Designer_Core-8C6469?style=flat-square&logo=alteryx&logoColor=F7EDE7" />
+  <img src="https://img.shields.io/badge/NPTEL-Cybersecurity_%26_IoT-2E2A2B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Infosys-Python_Automation-B4788A?style=flat-square&logoColor=F7EDE7" />
+  <img src="https://img.shields.io/badge/HackerRank-Python_(Basic)-6B4E52?style=flat-square&logo=hackerrank&logoColor=F7EDE7" />
 </p>
 
 <br>
@@ -361,17 +357,23 @@ Deep Learning / Transformers   ████████░░░░░░░░�
 
 <p align="center"><i>"First, solve the problem. Then, write the code." — John Johnson</i></p>
 
-## 🌿 Connect with Me
+## 🌸 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/ridhima-gadalay-90b681298"><img src="https://img.shields.io/badge/LinkedIn-Connect-1B4332?style=for-the-badge&logo=linkedin&logoColor=FAF3E0" /></a>
-  <a href="https://leetcode.com/u/ridhima_1618/"><img src="https://img.shields.io/badge/LeetCode-Solve-D4A017?style=for-the-badge&logo=leetcode&logoColor=081C15" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/ridhimag183"><img src="https://img.shields.io/badge/GeeksforGeeks-Practice-2D6A4F?style=for-the-badge&logo=geeksforgeeks&logoColor=FAF3E0" /></a>
-  <a href="mailto:ridhima.gadalay@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-081C15?style=for-the-badge&logo=gmail&logoColor=FAF3E0" /></a>
+  <a href="https://linkedin.com/in/ridhima-gadalay-90b681298"><img src="https://img.shields.io/badge/LinkedIn-Connect-2E2A2B?style=for-the-badge&logo=linkedin&logoColor=F7EDE7" /></a>
+  <a href="https://leetcode.com/u/ridhima_1618/"><img src="https://img.shields.io/badge/LeetCode-Solve-B4788A?style=for-the-badge&logo=leetcode&logoColor=F7EDE7" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/ridhimag183"><img src="https://img.shields.io/badge/GeeksforGeeks-Practice-6B4E52?style=for-the-badge&logo=geeksforgeeks&logoColor=F7EDE7" /></a>
+  <a href="mailto:ridhima.gadalay@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hi-2E2A2B?style=for-the-badge&logo=gmail&logoColor=F7EDE7" /></a>
 </p>
 
-<p align="center"><i>🌿 Building intelligent software — from data to deployment. Thanks for visiting!</i></p>
+<p align="center"><i>🌸 Building intelligent software — from data to deployment. Thanks for visiting!</i></p>
+
+<br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:2D6A4F,50:1B4332,100:081C15&height=100&section=footer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="80%"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:B4788A,50:6B4E52,100:2E2A2B&height=100&section=footer" width="100%"/>
 </p>
