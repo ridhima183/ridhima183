@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ridhima Gadalay</h1>
-<h3 align="center">Computer Science Engineering Student | AI/ML Enthusiast | Full Stack Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A2E2A,50:B76E79,100:E8A87C&height=230&section=header&text=Hi%20there,%20I'm%20Ridhima%20👋&fontSize=40&fontColor=F5E9DC&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
 
 <p align="center">
 <a href="https://linkedin.com/in/ridhima-gadalay-90b681298"><img src="https://img.shields.io/badge/LinkedIn-B76E79?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -9,13 +8,13 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B76E79&center=true&vCenter=true&width=600&lines=AI+Engineer+in+the+Making;Full+Stack+%2B+ML+Developer;Building+AI+that+Solves+Real+Problems;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=B76E79&center=true&vCenter=true&width=600&lines=AI+Engineer+in+the+Making;Full+Stack+%2B+ML+Developer;Building+AI+that+Solves+Real+Problems;Open+Source+Enthusiast" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ridhima183&label=Profile%20Views&color=B76E79&style=flat" />
-<img src="https://img.shields.io/badge/CGPA-9.53-brightgreen?style=flat" />
-<img src="https://img.shields.io/badge/College-CBIT%20Hyderabad-3A2E2A?style=flat" />
+<img src="https://komarev.com/ghpvc/?username=ridhima183&label=Profile%20Views&color=B76E79&style=for-the-badge" />
+<img src="https://img.shields.io/badge/CGPA-9.53-B76E79?style=for-the-badge" />
+<img src="https://img.shields.io/badge/College-CBIT%20Hyderabad-3A2E2A?style=for-the-badge" />
 </p>
 
 ---
@@ -30,6 +29,26 @@ I enjoy building intelligent systems that combine Machine Learning, Full Stack D
 - 🌱 Currently deepening my skills in Advanced DSA, LLM Applications, Docker, AWS, and System Design
 - 🎯 Goal: become a Software Engineer at a top product company, building scalable AI-driven products
 - ⚡ Fun fact: I've juggled AI/ML internships, cybersecurity assessments, and open-source leadership — all in the same year
+
+---
+
+### 🌱 My AI/ML Journey
+
+```mermaid
+timeline
+    title Ridhima's Journey into AI/ML & Full Stack Dev
+    2023 : Started B.E. CSE @ CBIT Hyderabad
+         : First lines of Python & Java
+    2024 : Learned React, FastAPI, ML fundamentals
+         : Built first full-stack projects
+    2025 : AI/ML + Cybersecurity Internships
+         : Amazon ML Challenge, Smart India Hackathon
+         : Department Topper (9.53 CGPA)
+    2026 : Deep dives into LLMs, System Design, Docker
+         : Open source leadership @ CBIT OSC
+    2027 : Graduating — Software Engineer, building
+           scalable AI-driven products
+```
 
 ---
 
@@ -183,7 +202,12 @@ Conducted vulnerability assessments on OWASP Juice Shop & DVWA using Kali Linux;
 
 ---
 
-<p align="center"><em>"First, solve the problem. Then, write the code."</em> — John Johnson</p>
+<div align="center">
+
+> 💭 *"First, solve the problem. Then, write the code."*
+> — John Johnson
+
+</div>
 
 ### 📫 Connect with Me
 
@@ -199,3 +223,5 @@ Conducted vulnerability assessments on OWASP Juice Shop & DVWA using Kali Linux;
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8A87C,50:B76E79,100:3A2E2A&height=120&section=footer" width="100%"/>
