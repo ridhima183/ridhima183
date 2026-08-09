@@ -1,20 +1,20 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A2E2A,50:B76E79,100:E8A87C&height=230&section=header&text=Hi%20there,%20I'm%20Ridhima%20👋&fontSize=40&fontColor=F5E9DC&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B4F4A,50:1AA6A0,100:E8B85D&height=230&section=header&text=Hi%20there,%20I'm%20Ridhima%20👋&fontSize=40&fontColor=FDF6EC&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student%20%7C%20AI%2FML%20Enthusiast%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=16" width="100%"/>
 
 <p align="center">
-<a href="https://linkedin.com/in/ridhima-gadalay-90b681298"><img src="https://img.shields.io/badge/LinkedIn-B76E79?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/ridhima_1618/"><img src="https://img.shields.io/badge/LeetCode-3A2E2A?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ridhima-gadalay-90b681298"><img src="https://img.shields.io/badge/LinkedIn-1AA6A0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/ridhima_1618/"><img src="https://img.shields.io/badge/LeetCode-0B4F4A?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="https://www.geeksforgeeks.org/profile/ridhimag183"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 <a href="mailto:ridhima.gadalay@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=B76E79&center=true&vCenter=true&width=650&lines=AI+Engineer+in+the+Making;Full+Stack+%2B+ML+Developer;Building+AI+that+Solves+Real+Problems;Turning+Ideas+into+Deployed+Products;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=1AA6A0&center=true&vCenter=true&width=650&lines=AI+Engineer+in+the+Making;Full+Stack+%2B+ML+Developer;Building+AI+that+Solves+Real+Problems;Turning+Ideas+into+Deployed+Products;Open+Source+Enthusiast" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ridhima183&label=Profile%20Views&color=B76E79&style=for-the-badge" />
-<img src="https://img.shields.io/badge/CGPA-9.53-B76E79?style=for-the-badge" />
-<img src="https://img.shields.io/badge/College-CBIT%20Hyderabad-3A2E2A?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ridhima183&label=Profile%20Views&color=1AA6A0&style=for-the-badge" />
+<img src="https://img.shields.io/badge/CGPA-9.53-1AA6A0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/College-CBIT%20Hyderabad-0B4F4A?style=for-the-badge" />
 </p>
 
 ---
@@ -94,8 +94,8 @@ timeline
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/SHAP-B76E79?style=flat-square" />
-<img src="https://img.shields.io/badge/Prompt_Engineering-B76E79?style=flat-square" />
+<img src="https://img.shields.io/badge/SHAP-1AA6A0?style=flat-square" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-1AA6A0?style=flat-square" />
 </p>
 
 **Blockchain / IoT**
@@ -120,16 +120,16 @@ timeline
 ### 📊 GitHub Stats
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ridhima183&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhima183&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ridhima183&show_icons=true&theme=cobalt2&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridhima183&layout=compact&theme=cobalt2&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ridhima183&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ridhima183&theme=cobalt2&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ridhima183&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ridhima183&theme=cobalt2&hide_border=true" />
 </p>
 
 ---
@@ -225,8 +225,8 @@ Conducted vulnerability assessments on OWASP Juice Shop & DVWA using Kali Linux;
 ### 📫 Connect with Me
 
 <p>
-<a href="https://linkedin.com/in/ridhima-gadalay-90b681298"><img src="https://img.shields.io/badge/LinkedIn-B76E79?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://leetcode.com/u/ridhima_1618/"><img src="https://img.shields.io/badge/LeetCode-3A2E2A?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://linkedin.com/in/ridhima-gadalay-90b681298"><img src="https://img.shields.io/badge/LinkedIn-1AA6A0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/ridhima_1618/"><img src="https://img.shields.io/badge/LeetCode-0B4F4A?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="https://www.geeksforgeeks.org/profile/ridhimag183"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 <a href="mailto:ridhima.gadalay@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -237,4 +237,4 @@ Conducted vulnerability assessments on OWASP Juice Shop & DVWA using Kali Linux;
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8A87C,50:B76E79,100:3A2E2A&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E8B85D,50:1AA6A0,100:0B4F4A&height=120&section=footer" width="100%"/>
