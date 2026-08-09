@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=B76E79&center=true&vCenter=true&width=600&lines=AI+Engineer+in+the+Making;Full+Stack+%2B+ML+Developer;Building+AI+that+Solves+Real+Problems;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=B76E79&center=true&vCenter=true&width=650&lines=AI+Engineer+in+the+Making;Full+Stack+%2B+ML+Developer;Building+AI+that+Solves+Real+Problems;Turning+Ideas+into+Deployed+Products;Open+Source+Enthusiast" />
 </p>
 
 <p align="center">
@@ -21,18 +21,18 @@
 
 ### 🚀 About Me
 
-I'm a Computer Science Engineering student at Chaitanya Bharathi Institute of Technology, Hyderabad (CGPA: 9.53), specializing in AI/ML, Cybersecurity, and IoT.
+I'm a Computer Science Engineering student at Chaitanya Bharathi Institute of Technology, Hyderabad (CGPA: 9.53), specializing in AI/ML, Cybersecurity, and Full Stack Development.
 
-I enjoy building intelligent systems that combine Machine Learning, Full Stack Development, and real-world problem solving — from fraud detection models to IoT dashboards.
+I like building things that don't just work in a notebook — intelligent systems that ship, from fraud detection models to blockchain provenance trackers to real-time health platforms.
 
-- 🔭 Currently building **Pest Vision**, a full-stack Next.js platform for a Hyderabad-based pest control business
+- 🔭 Currently building **Pest Vision**, a full-stack platform for a Hyderabad-based pest control business
 - 🌱 Currently deepening my skills in Advanced DSA, LLM Applications, Docker, AWS, and System Design
 - 🎯 Goal: become a Software Engineer at a top product company, building scalable AI-driven products
 - ⚡ Fun fact: I've juggled AI/ML internships, cybersecurity assessments, and open-source leadership — all in the same year
 
 ---
 
-### 🌱 My AI/ML Journey
+### 🌱 My Journey
 
 ```mermaid
 timeline
@@ -46,6 +46,7 @@ timeline
          : Department Topper (9.53 CGPA)
     2026 : Deep dives into LLMs, System Design, Docker
          : Open source leadership @ CBIT OSC
+         : Shipped healthcare, blockchain & microservice projects
     2027 : Graduating — Software Engineer, building
            scalable AI-driven products
 ```
@@ -58,8 +59,9 @@ timeline
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
 </p>
 
@@ -92,7 +94,15 @@ timeline
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/SHAP-B76E79?style=flat-square" />
 <img src="https://img.shields.io/badge/Prompt_Engineering-B76E79?style=flat-square" />
+</p>
+
+**Blockchain / IoT**
+<p>
+<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
+<img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
+<img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white" />
 </p>
 
 **Tools**
@@ -143,11 +153,14 @@ Solving problems consistently to strengthen algorithmic thinking and prepare for
 
 | Project | Description | Stack |
 |---|---|---|
-| 🐛 **Pest Vision** | Full-stack Next.js website for a Hyderabad-based pest control business. | `Next.js` `React` `Full Stack` |
-| 🤖 **Role Radar AI — Resume Classifier** | End-to-end NLP pipeline (Linear SVM, Random Forest, Naive Bayes) with a custom TF-IDF vectorizer (25K vocab), 81.3% accuracy. FastAPI + React with a 3-container Docker setup, SQLAlchemy ORM migrated from SQLite to PostgreSQL. | `Python` `NLTK` `TF-IDF` `Docker` `FastAPI` `React` |
-| 💳 **Credit Card Fraud Detection** | Isolation Forest + supervised ensemble classifier on 30K+ transactions with extreme class skew. Stratified K-Fold CV + GridSearchCV tuning (95% accuracy), SHAP-based interpretability across 24 features. | `Python` `XGBoost` `Random Forest` `SMOTE` `SHAP` |
+| 🤖 **Role Radar — Resume Classifier** | End-to-end NLP pipeline (Linear SVM, Random Forest, Naive Bayes) with a custom TF-IDF vectorizer (25K vocab), 81.3% accuracy. FastAPI + React with a 3-container Docker setup, SQLAlchemy ORM migrated from SQLite to PostgreSQL. | `Python` `NLTK` `TF-IDF` `Docker` `FastAPI` `React` |
+| 🫀 **VitalIQ** | Clinical decision-support system that surfaces model predictions with SHAP-based explainability, so outputs stay interpretable for clinicians rather than being a black box. | `Python` `Scikit-learn` `SHAP` `FastAPI` `React` |
+| ✈️ **Airline Reservation System** | Microservices-based reservation platform (final-year capstone) covering booking, search, and payment as independently deployable services. | `Java` `Spring Boot` `Microservices` `SQL` |
+| 📄 **Summarify** | AI-powered document summarization tool using transformer models to condense long documents into digestible summaries. | `BART` `DistilBART` `FastAPI` `React` |
 | 🏥 **Disease Diagnosis using ML** | Multi-class diagnostic engine using Decision Trees & SVM on 132-feature sparse matrices, with an NLP string-normalization pipeline for symptom-query parsing. | `Python` `Scikit-learn` `NLP` `Regex` |
-| ⚡ **IoT-based Human Energy Harvesting System** | Energy harvesting system with 6 piezoelectric sensors + kinetic generator, ESP32-based real-time monitoring, Wi-Fi-enabled Blynk dashboard. | `ESP32` `IoT` `Blynk` `INA219` |
+| ⚡ **IoT-based Human Energy Harvesting System** | Energy harvesting system with 6 piezoelectric sensors + kinetic generator, ESP32-based real-time monitoring, Wi-Fi-enabled dashboard. | `ESP32` `IoT` `INA219` |
+| 🧾 **SplitNest** | Payment and settlement platform for splitting and tracking shared expenses, built with a focus on clean transaction reconciliation. | `React` `Node.js` `MongoDB` |
+| 💳 **Credit Card Fraud Detection** | Isolation Forest + supervised ensemble classifier on 30K+ transactions with extreme class skew. Stratified K-Fold CV + GridSearchCV tuning (95% accuracy), SHAP-based interpretability across 24 features. | `Python` `XGBoost` `Random Forest` `SMOTE` `SHAP` |
 
 <p align="center">
 <a href="https://github.com/ridhima183?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -196,7 +209,7 @@ Conducted vulnerability assessments on OWASP Juice Shop & DVWA using Kali Linux;
 2023 ── Started Engineering @ CBIT
 2024 ── Machine Learning · Python · React
 2025 ── AI Projects · Internships (AI/ML + Cybersecurity) · DSA
-2026 ── Placements · Open Source · Top Product Companies
+2026 ── Healthcare AI · Blockchain · Microservices · Placements
 2027 ── Software Engineer, building scalable AI products
 ```
 
