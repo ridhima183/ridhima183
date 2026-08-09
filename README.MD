@@ -17,22 +17,22 @@
 <img src="https://img.shields.io/badge/College-CBIT%20Hyderabad-0B4F4A?style=for-the-badge" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B4F4A,50:1AA6A0,100:E8B85D&height=3&width=100%" width="100%"/>
 
 ### 🚀 About Me
 
 I'm a Computer Science Engineering student at Chaitanya Bharathi Institute of Technology, Hyderabad (CGPA: 9.53), specializing in AI/ML, Cybersecurity, and Full Stack Development.
 
-I like building things that don't just work in a notebook — intelligent systems that ship, from fraud detection models to blockchain provenance trackers to real-time health platforms.
+I like building things that don't just work in a notebook — intelligent systems that ship, from fraud detection models to full-stack platforms.
 
 - 🔭 Currently building **Pest Vision**, a full-stack platform for a Hyderabad-based pest control business
-- 🌱 Currently deepening my skills in Advanced DSA, LLM Applications, Docker, AWS, and System Design
+- 🌊 Currently deepening my skills in Advanced DSA, LLM Applications, Docker, AWS, and System Design
 - 🎯 Goal: become a Software Engineer at a top product company, building scalable AI-driven products
 - ⚡ Fun fact: I've juggled AI/ML internships, cybersecurity assessments, and open-source leadership — all in the same year
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B4F4A,50:1AA6A0,100:E8B85D&height=3&width=100%" width="100%"/>
 
-### 🌱 My Journey
+### 🌊 My Journey
 
 ```mermaid
 timeline
@@ -46,45 +46,23 @@ timeline
          : Department Topper (9.53 CGPA)
     2026 : Deep dives into LLMs, System Design, Docker
          : Open source leadership @ CBIT OSC
-         : Shipped healthcare, blockchain & microservice projects
+         : Shipped healthcare, fintech & microservice projects
     2027 : Graduating — Software Engineer, building
            scalable AI-driven products
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B4F4A,50:1AA6A0,100:E8B85D&height=3&width=100%" width="100%"/>
 
 ### 🛠️ Tech Stack
 
-**Languages**
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,js,ts,java,solidity,mysql&theme=dark" />
 </p>
-
-**Frontend**
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,nodejs,express,fastapi&theme=dark" />
 </p>
-
-**Backend**
-<p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-</p>
-
-**Databases**
-<p>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,git,github,docker,vscode,postman,linux&theme=dark" />
 </p>
 
 **AI / ML**
@@ -98,24 +76,7 @@ timeline
 <img src="https://img.shields.io/badge/Prompt_Engineering-1AA6A0?style=flat-square" />
 </p>
 
-**Blockchain / IoT**
-<p>
-<img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" />
-<img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white" />
-</p>
-
-**Tools**
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-</p>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B4F4A,50:1AA6A0,100:E8B85D&height=3&width=100%" width="100%"/>
 
 ### 📊 GitHub Stats
 
@@ -132,7 +93,11 @@ timeline
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ridhima183&theme=cobalt2&hide_border=true" />
 </p>
 
----
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ridhima183&theme=algolia&no-frame=true&column=7&margin-w=8&margin-h=8" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B4F4A,50:1AA6A0,100:E8B85D&height=3&width=100%" width="100%"/>
 
 ### 🧩 Competitive Programming
 
@@ -142,12 +107,12 @@ Solving problems consistently to strengthen algorithmic thinking and prepare for
 <img src="https://leetcard.jacoblin.cool/ridhima_1618?theme=dark&font=Karla&ext=heatmap" />
 </p>
 
-<p>
+<p align="center">
 <a href="https://leetcode.com/u/ridhima_1618/"><img src="https://img.shields.io/badge/LeetCode_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 <a href="https://www.geeksforgeeks.org/profile/ridhimag183"><img src="https://img.shields.io/badge/GeeksforGeeks_Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B4F4A,50:1AA6A0,100:E8B85D&height=3&width=100%" width="100%"/>
 
 ### 💼 Featured Projects
 
@@ -166,7 +131,7 @@ Solving problems consistently to strengthen algorithmic thinking and prepare for
 <a href="https://github.com/ridhima183?tab=repositories"><img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B4F4A,50:1AA6A0,100:E8B85D&height=3&width=100%" width="100%"/>
 
 ### 🧪 Experience
 
@@ -176,7 +141,7 @@ Built ML models with Python & Scikit-learn; handled data preprocessing, feature 
 **Cybersecurity Intern — Future Interns** *(Jul–Aug 2025)*
 Conducted vulnerability assessments on OWASP Juice Shop & DVWA using Kali Linux; used Splunk for threat correlation, identifying SQL Injection, XSS, and CSRF vulnerabilities.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B4F4A,50:1AA6A0,100:E8B85D&height=3&width=100%" width="100%"/>
 
 ### 🏆 Achievements & Leadership
 
@@ -187,7 +152,7 @@ Conducted vulnerability assessments on OWASP Juice Shop & DVWA using Kali Linux;
 - 📡 Joint Secretary, IEEE Aerospace Student Chapter
 - 🌐 PR/Outreach Lead, CBIT Open Source Community — scaled developer engagement across 3 major events at SUDEE 2025
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B4F4A,50:1AA6A0,100:E8B85D&height=3&width=100%" width="100%"/>
 
 ### 📜 Certifications
 
@@ -201,7 +166,7 @@ Conducted vulnerability assessments on OWASP Juice Shop & DVWA using Kali Linux;
 <img src="https://img.shields.io/badge/HackerRank-Python_(Basic)-2EC866?style=flat-square&logo=hackerrank&logoColor=white" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B4F4A,50:1AA6A0,100:E8B85D&height=3&width=100%" width="100%"/>
 
 ### 🗺️ Roadmap
 
@@ -209,11 +174,9 @@ Conducted vulnerability assessments on OWASP Juice Shop & DVWA using Kali Linux;
 2023 ── Started Engineering @ CBIT
 2024 ── Machine Learning · Python · React
 2025 ── AI Projects · Internships (AI/ML + Cybersecurity) · DSA
-2026 ── Healthcare AI · Blockchain · Microservices · Placements
+2026 ── Healthcare AI · Fintech · Microservices · Placements
 2027 ── Software Engineer, building scalable AI products
 ```
-
----
 
 <div align="center">
 
@@ -224,14 +187,14 @@ Conducted vulnerability assessments on OWASP Juice Shop & DVWA using Kali Linux;
 
 ### 📫 Connect with Me
 
-<p>
+<p align="center">
 <a href="https://linkedin.com/in/ridhima-gadalay-90b681298"><img src="https://img.shields.io/badge/LinkedIn-1AA6A0?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://leetcode.com/u/ridhima_1618/"><img src="https://img.shields.io/badge/LeetCode-0B4F4A?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 <a href="https://www.geeksforgeeks.org/profile/ridhimag183"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
 <a href="mailto:ridhima.gadalay@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><em>Building intelligent software — from data to deployment. Thanks for visiting! 🚀</em></p>
+<p align="center"><em>Building intelligent software — from data to deployment. Thanks for visiting! 🌊</em></p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
